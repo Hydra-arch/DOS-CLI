@@ -5,7 +5,9 @@ Installation:
 
 2. cd DOSCLI
 
-3. ./install.sh or bash install.sh
+3. chmod +x install.sh
+
+4. ./install.sh or bash install.sh
 
 Enjoy!
 
