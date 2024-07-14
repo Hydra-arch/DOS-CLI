@@ -4,19 +4,23 @@ This repository was created for carrying out DOS attacks in order to check for s
 Kali Linux 
 
 **Installation**: 
-1.```
+1.
+```
 git clone https://github.com/Hydra-arch/DOS-client.git
 ```
 
-2.```
+2.
+```
 cd DOSCLI
 ```
 
-3.```
+3.
+```
 chmod +x install.sh
 ```
 
-4.```
+4.
+```
 ./install.sh
 ```
 or 
