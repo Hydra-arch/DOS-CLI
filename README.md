@@ -1,9 +1,11 @@
 This repository was created for carrying out DOS attacks in order to check for security.
 
 **Tested on**:
+
 Kali Linux 
 
-**Installation**: 
+**Installation**:
+
 1.
 ```
 git clone https://github.com/Hydra-arch/DOS-client.git
