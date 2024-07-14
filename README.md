@@ -1,13 +1,28 @@
 This repository was created for carrying out DOS attacks in order to check for security.
 
-Installation: 
-1. git clone https://github.com/Hydra-arch/DOS-client.git
+**Tested on**:
+Kali Linux 
 
-2. cd DOSCLI
+**Installation**: 
+1.```
+git clone https://github.com/Hydra-arch/DOS-client.git
+```
 
-3. chmod +x install.sh
+2.```
+cd DOSCLI
+```
 
-4. ./install.sh or bash install.sh
+3.```
+chmod +x install.sh
+```
+
+4.```
+./install.sh
+```
+or 
+```
+bash install.sh
+```
 
 Enjoy!
 
