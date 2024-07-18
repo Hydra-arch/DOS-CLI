@@ -13,7 +13,7 @@ git clone https://github.com/Hydra-arch/DOS-client.git
 
 2.
 ```
-cd DOSCLI
+cd DOS-CLI
 ```
 
 3.
