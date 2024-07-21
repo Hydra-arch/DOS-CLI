@@ -32,4 +32,6 @@ bash install.sh
 
 Enjoy!
 
+Run as root!
+
 Use this repository at your own risk!
