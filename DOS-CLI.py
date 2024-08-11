@@ -68,12 +68,12 @@ class Hping3:
             self.s = str(input("Your port: "))
             self.target_port = str(input("Target port: "))
             self.target = str(input("Target ip: "))
-            self.land(c, s, target_port, target)
+            self.land(self.c, self.s, self.target_port, self.target)
 
         elif attack_type == 4:
             self.broadcast = str(input("Broadcast adress: "))
             self.target = str(input("Target ip: "))
-            self.smurf(target, broadcast)
+            self.smurf(self.target, self.broadcast)
 
 class Aireplay:
     def __init__(self):
@@ -217,9 +217,9 @@ print(Style.RESET_ALL)
 
 for index, item in enumerate(methods, start=1):
     print(Fore.LIGHTCYAN_EX + f"[{index}] {item}\n")
-    print(Style.RESET_ALL)
 
 attack_method = int(input('Choose an attack method: '))
+print('\n')
 
 if attack_method == 1:
     if __name__ == '__main__':
