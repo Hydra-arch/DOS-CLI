@@ -212,7 +212,7 @@ Fore.MAGENTA + r"""       ____            ________    ___
     / /_/ / /_/ (__  ) /__/ /____/ /
    /_____/\____/____/\___/_____/___/ 
     """)
-print(f"by Hydra-arch\n https://github.com/Hydra-arch\n")
+print(f"by 0x3n19m4\n https://github.com/0x3n19m4\n")
 print(Style.RESET_ALL)
 
 for index, item in enumerate(methods, start=1):
