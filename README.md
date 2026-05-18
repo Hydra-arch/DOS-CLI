@@ -8,7 +8,7 @@ Kali Linux
 
 1.
 ```
-git clone https://github.com/Hydra-arch/DOS-CLI.git
+git clone https://github.com/0x3n19m4/DOS-CLI.git
 ```
 
 2.
